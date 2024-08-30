@@ -1,0 +1,2589 @@
+{
+  "assets": [
+    {
+      "type": "image",
+      "src": "https://via.placeholder.com/700x500",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    },
+    {
+      "type": "image",
+      "src": "https://via.placeholder.com/1000x700",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    },
+    {
+      "type": "image",
+      "src": "https://via.placeholder.com/100x100",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    }
+  ],
+  "styles": [
+    {
+      "selectors": ["gjs-heading"],
+      "style": {
+        "margin": "0"
+      },
+      "group": "cmp:heading"
+    },
+    {
+      "selectors": ["gjs-grid-column"],
+      "style": {
+        "flex": "1 1 0%",
+        "padding": "5px 0"
+      },
+      "group": "cmp:gridColumn"
+    },
+    {
+      "selectors": ["gjs-grid-row"],
+      "style": {
+        "display": "flex",
+        "justify-content": "flex-start",
+        "align-items": "stretch",
+        "flex-direction": "row",
+        "min-height": "auto",
+        "padding": "10px 0"
+      },
+      "group": "cmp:gridRow"
+    },
+    {
+      "selectors": ["gjs-grid-row"],
+      "style": {
+        "flex-direction": "column"
+      },
+      "mediaText": "(max-width: 992px)",
+      "atRuleType": "media",
+      "group": "cmp:gridRow"
+    },
+    {
+      "selectors": ["#iqjl"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["gjs-link-box"],
+      "style": {
+        "color": "inherit",
+        "display": "inline-block",
+        "vertical-align": "top",
+        "padding": "10px",
+        "max-width": "100%",
+        "text-decoration": "none"
+      },
+      "group": "cmp:linkBox"
+    },
+    {
+      "selectors": ["#ihtxj"],
+      "style": {
+        "color": "black",
+        "width": "54.13018798828125px",
+        "height": "54px"
+      }
+    },
+    {
+      "selectors": ["gjs-link"],
+      "style": {
+        "vertical-align": "top",
+        "max-width": "100%",
+        "display": "inline-block",
+        "text-decoration": "none",
+        "color": "inherit"
+      },
+      "group": "cmp:link"
+    },
+    {
+      "selectors": ["#i1mew"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#id7x"],
+      "style": {
+        "flex": "0 1 auto",
+        "display": "block",
+        "padding-left": "10px",
+        "padding-right": "10px"
+      }
+    },
+    {
+      "selectors": ["#iffs"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#iyd2"],
+      "style": {
+        "align-items": "center",
+        "justify-content": "space-between",
+        "padding-top": "0px",
+        "padding-bottom": "0px"
+      }
+    },
+    {
+      "selectors": ["#i6po"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "0px",
+        "padding-bottom": "0px"
+      }
+    },
+    {
+      "selectors": ["#itjq"],
+      "style": {
+        "width": "100%",
+        "max-width": "1200px"
+      }
+    },
+    {
+      "selectors": ["#iucmr"],
+      "style": {
+        "display": "block",
+        "padding-top": "0px",
+        "padding-bottom": "0px"
+      }
+    },
+    {
+      "selectors": ["#it00l"],
+      "style": {
+        "padding-top": "0px",
+        "padding-bottom": "0px"
+      }
+    },
+    {
+      "selectors": ["#iz7cr"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#ii2rd"],
+      "style": {
+        "padding": "10px",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#icfyb"],
+      "style": {
+        "padding": "10px",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#irtfd"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#i88iz"],
+      "style": {
+        "padding": "10px",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#icyzp"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#irz7b"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "80px",
+        "padding-bottom": "80px",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#iycz3"],
+      "style": {
+        "max-width": "1200px",
+        "align-items": "center",
+        "display": "flex",
+        "flex-direction": "column",
+        "gap": "10px"
+      }
+    },
+    {
+      "selectors": ["#irjua"],
+      "style": {
+        "font-size": "3rem"
+      }
+    },
+    {
+      "selectors": ["#itndw"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "margin-bottom": "25px"
+      }
+    },
+    {
+      "selectors": ["#iar3s"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px",
+        "margin-bottom": "50px"
+      }
+    },
+    {
+      "selectors": ["#i3vvs"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "5px",
+        "border-top-right-radius": "5px",
+        "border-bottom-right-radius": "5px",
+        "border-bottom-left-radius": "5px",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["text-content"],
+      "style": {
+        "line-height": "20px"
+      }
+    },
+    {
+      "selectors": ["text-main-content"],
+      "style": {
+        "line-height": "30px",
+        "font-size": "1.3rem",
+        "color": "rgba(0, 0, 0, 0.75)"
+      }
+    },
+    {
+      "selectors": ["#iau9"],
+      "style": {
+        "font-family": "Arial, Helvetica, sans-serif"
+      },
+      "wrapper": 1
+    },
+    {
+      "selectors": ["#ij2gh"],
+      "style": {
+        "font-size": "2.5rem"
+      }
+    },
+    {
+      "selectors": ["#igrx8"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "margin-bottom": "25px",
+        "padding-left": "0px",
+        "padding-right": "0px"
+      }
+    },
+    {
+      "selectors": ["#isn3p"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#i466d"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "5px",
+        "border-top-right-radius": "5px",
+        "border-bottom-right-radius": "5px",
+        "border-bottom-left-radius": "5px",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#imymf"],
+      "style": {
+        "max-width": "1200px",
+        "align-items": "center",
+        "display": "flex",
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": ["#ichzi"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "80px",
+        "padding-bottom": "80px",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#ib541"],
+      "style": {
+        "gap": "100px",
+        "justify-content": "space-between"
+      }
+    },
+    {
+      "selectors": ["#iz8m8"],
+      "style": {
+        "display": "flex",
+        "flex-direction": "column",
+        "align-items": "flex-start",
+        "justify-content": "center"
+      }
+    },
+    {
+      "selectors": ["#ie2yp"],
+      "style": {
+        "font-size": "2.5rem"
+      }
+    },
+    {
+      "selectors": ["#ip9za"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "margin-bottom": "25px",
+        "padding-left": "0px",
+        "padding-right": "0px"
+      }
+    },
+    {
+      "selectors": ["#ihj23"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#i07yy"],
+      "style": {
+        "display": "flex",
+        "flex-direction": "column",
+        "align-items": "flex-end",
+        "justify-content": "center",
+        "text-align": "right"
+      }
+    },
+    {
+      "selectors": ["#ibhvh"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "5px",
+        "border-top-right-radius": "5px",
+        "border-bottom-right-radius": "5px",
+        "border-bottom-left-radius": "5px",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#i297f"],
+      "style": {
+        "gap": "100px",
+        "justify-content": "space-between"
+      }
+    },
+    {
+      "selectors": ["#ifx1t"],
+      "style": {
+        "max-width": "1200px",
+        "align-items": "center",
+        "display": "flex",
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": ["#ixig3"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "80px",
+        "padding-bottom": "80px",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#in9ef"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#i8isa"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#izue1"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#i6l3t"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#i8w4i"],
+      "style": {
+        "max-width": "1200px",
+        "align-items": "center",
+        "display": "flex",
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": ["#ioyxg"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "80px",
+        "padding-bottom": "80px",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#iiacm"],
+      "style": {
+        "font-size": "2.5rem",
+        "margin-bottom": "10px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#ixzh1"],
+      "style": {
+        "width": "100%",
+        "flex-wrap": "wrap",
+        "justify-content": "flex-start",
+        "gap": "50px"
+      }
+    },
+    {
+      "selectors": ["gjs-grid-column", "feature-item"],
+      "style": {
+        "padding-top": "15px",
+        "padding-right": "15px",
+        "padding-bottom": "15px",
+        "padding-left": "15px",
+        "display": "flex",
+        "flex-direction": "column",
+        "align-items": "center",
+        "gap": "15px",
+        "min-width": "30%"
+      }
+    },
+    {
+      "selectors": ["#iinc1f"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#istmw2"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#ijfv13"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#igsybu"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#imzjjg"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#io2e0a"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#ipy7fh"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#iaqmei"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#io9lt4"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#i9lijx"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#ipy1nf"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#i31i8z"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#if3q9n"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#iyz817"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#ifs1de"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#ivuwzh"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#i2v2bo"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%"
+      }
+    },
+    {
+      "selectors": ["#i4zy5b"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#iss1oi"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#iwv8kj"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "text-transform": "uppercase",
+        "font-family": "Arial, Helvetica, sans-serif",
+        "letter-spacing": "3px",
+        "background-color": "black",
+        "color": "white",
+        "display": "inline-block",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-left-radius": "3px"
+      }
+    },
+    {
+      "selectors": ["#ia21sa"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "margin-bottom": "70px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#ihap8q"],
+      "style": {
+        "font-size": "2.5rem",
+        "margin-bottom": "10px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#i6fjjy"],
+      "style": {
+        "padding": "10px",
+        "max-width": "750px",
+        "margin-bottom": "70px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "text-align": "center"
+      }
+    },
+    {
+      "selectors": ["#ia7pcr"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%",
+        "width": "75px"
+      }
+    },
+    {
+      "selectors": ["#iqroa4"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#i5k4nf"],
+      "style": {
+        "width": "100%",
+        "flex-wrap": "wrap",
+        "justify-content": "flex-start",
+        "gap": "50px"
+      }
+    },
+    {
+      "selectors": ["#infwen"],
+      "style": {
+        "max-width": "1200px",
+        "align-items": "center",
+        "display": "flex",
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": ["#igo13t"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "80px",
+        "padding-bottom": "80px",
+        "padding-left": "20px",
+        "padding-right": "20px"
+      }
+    },
+    {
+      "selectors": ["#inea73"],
+      "style": {
+        "justify-content": "space-between"
+      }
+    },
+    {
+      "selectors": ["gjs-grid-column", "testimonial-item"],
+      "style": {
+        "padding-top": "15px",
+        "padding-right": "15px",
+        "padding-bottom": "15px",
+        "padding-left": "15px",
+        "display": "flex",
+        "flex-direction": "column",
+        "gap": "15px",
+        "min-width": "45%",
+        "background-color": "rgba(247, 246, 246, 1)",
+        "border-top-left-radius": "5px",
+        "border-top-right-radius": "5px",
+        "border-bottom-right-radius": "5px",
+        "border-bottom-left-radius": "5px",
+        "align-items": "flex-start"
+      }
+    },
+    {
+      "selectors": ["#idva29"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#i2d7qp"],
+      "style": {
+        "width": "100%",
+        "gap": "20px",
+        "align-items": "center"
+      }
+    },
+    {
+      "selectors": ["#iaqf2c"],
+      "style": {
+        "color": "rgba(0, 0, 0, 0.5)"
+      }
+    },
+    {
+      "selectors": ["#i2d7qp"],
+      "style": {
+        "flex-direction": "row"
+      },
+      "mediaText": "(max-width: 992px)",
+      "atRuleType": "media"
+    },
+    {
+      "selectors": ["#it3yug"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "0px",
+        "padding-right": "0px"
+      }
+    },
+    {
+      "selectors": ["#i8gt4n"],
+      "style": {
+        "padding": "10px",
+        "padding-left": "0px",
+        "padding-right": "0px"
+      }
+    },
+    {
+      "selectors": ["#ixzdlj"],
+      "style": {
+        "color": "black",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%",
+        "max-width": "100%",
+        "width": "75px"
+      }
+    },
+    {
+      "selectors": ["#inucqu"],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#i04ztt"],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": ["#ia9ts3"],
+      "style": {
+        "color": "rgba(0, 0, 0, 0.5)"
+      }
+    },
+    {
+      "selectors": ["#ish0zj"],
+      "style": {
+        "width": "100%",
+        "gap": "20px",
+        "align-items": "center"
+      }
+    },
+    {
+      "selectors": ["#ish0zj"],
+      "style": {
+        "flex-direction": "row"
+      },
+      "mediaText": "(max-width: 992px)",
+      "atRuleType": "media"
+    },
+    {
+      "selectors": ["#idndjn"],
+      "style": {
+        "justify-content": "space-between"
+      }
+    },
+    {
+      "selectors": ["#ilriti"],
+      "style": {
+        "max-width": "1200px",
+        "display": "flex",
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": ["#iv3be5"],
+      "style": {
+        "justify-content": "center",
+        "padding-top": "80px",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "padding-bottom": "30px"
+      }
+    },
+    {
+      "selectors": ["#im0rle"],
+      "style": {
+        "gap": "100px",
+        "padding-bottom": "30px"
+      }
+    },
+    {
+      "selectors": ["#ifz4zk"],
+      "style": {
+        "margin-bottom": "10px",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "selectors": ["#i1podl"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#i4m02q"],
+      "style": {
+        "display": "flex",
+        "flex-direction": "column",
+        "gap": "15px",
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#in1kmc"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#io1hrh"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#ikhs8g"],
+      "style": {
+        "color": "black",
+        "width": "54.13018798828125px",
+        "height": "54px",
+        "border-top-left-radius": "100%",
+        "border-top-right-radius": "100%",
+        "border-bottom-right-radius": "100%",
+        "border-bottom-left-radius": "100%"
+      }
+    },
+    {
+      "selectors": ["#iih6cv"],
+      "style": {
+        "display": "block",
+        "padding-top": "0px",
+        "padding-bottom": "0px"
+      }
+    },
+    {
+      "selectors": ["#iotp6j"],
+      "style": {
+        "flex": "0 1 auto",
+        "margin-right": "auto"
+      }
+    },
+    {
+      "selectors": ["#it6g1v"],
+      "style": {
+        "padding": "10px",
+        "text-align": "center",
+        "font-size": "0.9rem",
+        "margin-top": "20px"
+      }
+    },
+    {
+      "selectors": ["#iyltzo"],
+      "style": {
+        "margin-bottom": "10px",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "selectors": ["#igy8t4"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#iv8kr2"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#iw0c0y"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#ighmg2"],
+      "style": {
+        "display": "flex",
+        "flex-direction": "column",
+        "gap": "15px",
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#ijzeqf"],
+      "style": {
+        "margin-bottom": "10px",
+        "text-transform": "uppercase"
+      }
+    },
+    {
+      "selectors": ["#ij7g8t"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#ipjdtn"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#ikj01e"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#i1hx7l"],
+      "style": {
+        "display": "flex",
+        "flex-direction": "column",
+        "gap": "15px",
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": ["#il08wz"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#in2r6l"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["#i2sl68"],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": ["gjs-divider"],
+      "style": {
+        "height": "3px",
+        "margin": "10px",
+        "background-color": "rgba(0, 0, 0, 0.05)"
+      },
+      "group": "cmp:divider"
+    }
+  ],
+  "pages": [
+    {
+      "frames": [
+        {
+          "component": {
+            "type": "wrapper",
+            "attributes": {
+              "id": "iau9"
+            },
+            "components": [
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "i6po"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "itjq"
+                    },
+                    "components": [
+                      {
+                        "type": "gridRow",
+                        "classes": ["gjs-grid-row"],
+                        "attributes": {
+                          "id": "iyd2"
+                        },
+                        "components": [
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "iqjl"
+                            },
+                            "components": [
+                              {
+                                "type": "linkBox",
+                                "classes": ["gjs-link-box"],
+                                "attributes": {
+                                  "id": "iucmr",
+                                  "href": "/"
+                                },
+                                "components": [
+                                  {
+                                    "type": "image",
+                                    "attributes": {
+                                      "id": "ihtxj",
+                                      "src": "https://via.placeholder.com/100x100"
+                                    },
+                                    "custom-name": "Logo image"
+                                  }
+                                ],
+                                "custom-name": "Logo link"
+                              }
+                            ],
+                            "custom-name": "Logo container"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "iffs"
+                            },
+                            "custom-name": "Nav container",
+                            "components": [
+                              {
+                                "type": "gridRow",
+                                "classes": ["gjs-grid-row"],
+                                "attributes": {
+                                  "id": "it00l"
+                                },
+                                "components": [
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "iz7cr"
+                                    },
+                                    "components": [
+                                      {
+                                        "type": "link",
+                                        "classes": ["gjs-link"],
+                                        "attributes": {
+                                          "id": "ii2rd"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "About"
+                                          }
+                                        ]
+                                      }
+                                    ],
+                                    "custom-name": "Nav item"
+                                  },
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "irtfd"
+                                    },
+                                    "components": [
+                                      {
+                                        "type": "link",
+                                        "classes": ["gjs-link"],
+                                        "attributes": {
+                                          "id": "icfyb"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "Features"
+                                          }
+                                        ]
+                                      }
+                                    ],
+                                    "custom-name": "Nav item"
+                                  },
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "icyzp"
+                                    },
+                                    "components": [
+                                      {
+                                        "type": "link",
+                                        "classes": ["gjs-link"],
+                                        "attributes": {
+                                          "id": "i88iz"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "Pricing"
+                                          }
+                                        ]
+                                      }
+                                    ],
+                                    "custom-name": "Nav item"
+                                  }
+                                ],
+                                "custom-name": "Nav menu"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "id7x"
+                            },
+                            "custom-name": "Button container",
+                            "components": [
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "i1mew"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Button"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "center-content": false
+                          }
+                        ],
+                        "custom-name": "Navbar wrapper"
+                      }
+                    ],
+                    "custom-name": "Navbar container"
+                  }
+                ],
+                "custom-name": "Navbar"
+              },
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "irz7b"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "iycz3"
+                    },
+                    "components": [
+                      {
+                        "type": "heading",
+                        "classes": ["gjs-heading"],
+                        "attributes": {
+                          "id": "irjua"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Insert Hero text here"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "classes": ["text-main-content"],
+                        "attributes": {
+                          "id": "itndw"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "link",
+                        "classes": ["gjs-link"],
+                        "attributes": {
+                          "id": "iar3s"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Button"
+                          }
+                        ],
+                        "custom-name": "Button"
+                      },
+                      {
+                        "type": "image",
+                        "attributes": {
+                          "id": "i3vvs",
+                          "src": "https://via.placeholder.com/1000x700"
+                        }
+                      }
+                    ],
+                    "custom-name": "Hero container"
+                  }
+                ],
+                "custom-name": "Hero section"
+              },
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "ichzi"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "imymf"
+                    },
+                    "components": [
+                      {
+                        "type": "gridRow",
+                        "classes": ["gjs-grid-row"],
+                        "attributes": {
+                          "id": "ib541"
+                        },
+                        "components": [
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "iz8m8"
+                            },
+                            "components": [
+                              {
+                                "tagName": "h2",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "ij2gh"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature One text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "igrx8"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "isn3p"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Button"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Column"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "iepks"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/700x500",
+                                  "id": "i466d"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "custom-name": "Feature wrapper"
+                      }
+                    ],
+                    "custom-name": "Feature container"
+                  }
+                ],
+                "custom-name": "Feature left section"
+              },
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "ixig3"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "ifx1t"
+                    },
+                    "components": [
+                      {
+                        "type": "gridRow",
+                        "classes": ["gjs-grid-row"],
+                        "attributes": {
+                          "id": "i297f"
+                        },
+                        "components": [
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "io56m"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/700x500",
+                                  "id": "ibhvh"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "i07yy"
+                            },
+                            "components": [
+                              {
+                                "tagName": "h2",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "ie2yp"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature Two text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "ip9za"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "ihj23"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Button"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Column"
+                          }
+                        ],
+                        "custom-name": "Feature wrapper"
+                      }
+                    ],
+                    "custom-name": "Feature container"
+                  }
+                ],
+                "custom-name": "Feature right section"
+              },
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "ioyxg"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "i8w4i"
+                    },
+                    "components": [
+                      {
+                        "tagName": "h2",
+                        "type": "heading",
+                        "classes": ["gjs-heading"],
+                        "attributes": {
+                          "id": "iiacm"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "More Features"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "classes": ["text-main-content"],
+                        "attributes": {
+                          "id": "ia21sa"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "gridRow",
+                        "classes": ["gjs-grid-row"],
+                        "attributes": {
+                          "id": "ixzh1"
+                        },
+                        "components": [
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "feature-item"],
+                            "attributes": {
+                              "id": "ilpi3"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/100x100",
+                                  "id": "i6l3t"
+                                }
+                              },
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "in9ef"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "i8isa"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "izue1"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Learn more"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Feature item"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "feature-item"],
+                            "attributes": {
+                              "id": "iolst9"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/100x100",
+                                  "id": "i2v2bo"
+                                }
+                              },
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "i4zy5b"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "iss1oi"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "iwv8kj"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Learn more"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Feature item"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "feature-item"],
+                            "attributes": {
+                              "id": "i80n4g"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/100x100",
+                                  "id": "if3q9n"
+                                }
+                              },
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "iyz817"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "ifs1de"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "ivuwzh"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Learn more"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Feature item"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "feature-item"],
+                            "attributes": {
+                              "id": "i0ciun"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/100x100",
+                                  "id": "io9lt4"
+                                }
+                              },
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "i9lijx"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "ipy1nf"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "i31i8z"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Learn more"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Feature item"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "feature-item"],
+                            "attributes": {
+                              "id": "ice5ar"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/100x100",
+                                  "id": "imzjjg"
+                                }
+                              },
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "io2e0a"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "ipy7fh"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "iaqmei"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Learn more"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Feature item"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "feature-item"],
+                            "attributes": {
+                              "id": "ipyath"
+                            },
+                            "components": [
+                              {
+                                "type": "image",
+                                "attributes": {
+                                  "src": "https://via.placeholder.com/100x100",
+                                  "id": "iinc1f"
+                                }
+                              },
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "istmw2"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Feature text"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "ijfv13"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "classes": ["gjs-link"],
+                                "attributes": {
+                                  "id": "igsybu"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Learn more"
+                                  }
+                                ],
+                                "custom-name": "Button"
+                              }
+                            ],
+                            "custom-name": "Feature item"
+                          }
+                        ],
+                        "custom-name": "Features"
+                      }
+                    ],
+                    "custom-name": "Feature container"
+                  }
+                ],
+                "custom-name": "Features grid section"
+              },
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "igo13t"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "infwen"
+                    },
+                    "components": [
+                      {
+                        "tagName": "h2",
+                        "type": "heading",
+                        "classes": ["gjs-heading"],
+                        "attributes": {
+                          "id": "ihap8q"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Testimonial section"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "classes": ["text-main-content"],
+                        "attributes": {
+                          "id": "i6fjjy"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "gridRow",
+                        "classes": ["gjs-grid-row"],
+                        "attributes": {
+                          "id": "i5k4nf"
+                        },
+                        "components": [
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "testimonial-item"],
+                            "attributes": {
+                              "id": "inea73"
+                            },
+                            "components": [
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "it3yug"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "gridRow",
+                                "classes": ["gjs-grid-row"],
+                                "attributes": {
+                                  "id": "i2d7qp"
+                                },
+                                "components": [
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "idva29"
+                                    },
+                                    "components": [
+                                      {
+                                        "type": "image",
+                                        "attributes": {
+                                          "src": "https://via.placeholder.com/100x100",
+                                          "id": "ia7pcr"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "i4djop"
+                                    },
+                                    "components": [
+                                      {
+                                        "tagName": "h4",
+                                        "type": "heading",
+                                        "classes": ["gjs-heading"],
+                                        "attributes": {
+                                          "id": "iqroa4"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "Full name"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "classes": ["text-main-content"],
+                                        "attributes": {
+                                          "id": "iaqf2c"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "Role / Company"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "custom-name": "Testimonial item"
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column", "testimonial-item"],
+                            "attributes": {
+                              "id": "idndjn"
+                            },
+                            "components": [
+                              {
+                                "type": "text",
+                                "classes": ["text-main-content"],
+                                "attributes": {
+                                  "id": "i8gt4n"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "gridRow",
+                                "classes": ["gjs-grid-row"],
+                                "attributes": {
+                                  "id": "ish0zj"
+                                },
+                                "components": [
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "inucqu"
+                                    },
+                                    "components": [
+                                      {
+                                        "type": "image",
+                                        "attributes": {
+                                          "src": "https://via.placeholder.com/100x100",
+                                          "id": "ixzdlj"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "gridColumn",
+                                    "classes": ["gjs-grid-column"],
+                                    "attributes": {
+                                      "id": "iuk8ib"
+                                    },
+                                    "components": [
+                                      {
+                                        "tagName": "h4",
+                                        "type": "heading",
+                                        "classes": ["gjs-heading"],
+                                        "attributes": {
+                                          "id": "i04ztt"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "Full name"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "classes": ["text-main-content"],
+                                        "attributes": {
+                                          "id": "ia9ts3"
+                                        },
+                                        "components": [
+                                          {
+                                            "type": "textnode",
+                                            "content": "Role / Company"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "custom-name": "Testimonial item"
+                          }
+                        ],
+                        "custom-name": "Testimonials"
+                      }
+                    ],
+                    "custom-name": "Feature container"
+                  }
+                ],
+                "custom-name": "Testimonial section"
+              },
+              {
+                "type": "gridRow",
+                "classes": ["gjs-grid-row"],
+                "attributes": {
+                  "id": "iv3be5"
+                },
+                "components": [
+                  {
+                    "type": "gridColumn",
+                    "classes": ["gjs-grid-column"],
+                    "attributes": {
+                      "id": "ilriti"
+                    },
+                    "components": [
+                      {
+                        "type": "gridRow",
+                        "classes": ["gjs-grid-row"],
+                        "attributes": {
+                          "id": "im0rle"
+                        },
+                        "components": [
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "iotp6j"
+                            },
+                            "components": [
+                              {
+                                "type": "linkBox",
+                                "classes": ["gjs-link-box"],
+                                "attributes": {
+                                  "href": "/",
+                                  "id": "iih6cv"
+                                },
+                                "components": [
+                                  {
+                                    "type": "image",
+                                    "attributes": {
+                                      "src": "https://via.placeholder.com/100x100",
+                                      "id": "ikhs8g"
+                                    },
+                                    "custom-name": "Logo image"
+                                  }
+                                ],
+                                "custom-name": "Logo link"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "i4m02q"
+                            },
+                            "components": [
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "ifz4zk"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer links"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "i1podl"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "io1hrh"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "in1kmc"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "ighmg2"
+                            },
+                            "components": [
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "iyltzo"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer links"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "igy8t4"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "iv8kr2"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "iw0c0y"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "il08wz"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "gridColumn",
+                            "classes": ["gjs-grid-column"],
+                            "attributes": {
+                              "id": "i1hx7l"
+                            },
+                            "components": [
+                              {
+                                "tagName": "h3",
+                                "type": "heading",
+                                "classes": ["gjs-heading"],
+                                "attributes": {
+                                  "id": "ijzeqf"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer links"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "ij7g8t"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "ipjdtn"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "ikj01e"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "i2sl68"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "link",
+                                "attributes": {
+                                  "id": "in2r6l"
+                                },
+                                "components": [
+                                  {
+                                    "type": "textnode",
+                                    "content": "Footer link"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "divider",
+                        "classes": ["gjs-divider"],
+                        "attributes": {
+                          "id": "iw4bbr"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "attributes": {
+                          "id": "it6g1v"
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Copyright © YEAR Company name"
+                          }
+                        ]
+                      }
+                    ],
+                    "custom-name": "Footer container"
+                  }
+                ],
+                "custom-name": "Footer section"
+              }
+            ]
+          }
+        }
+      ],
+      "name": "Home",
+      "id": "vqdZNw5ZDmwa84b8"
+    }
+  ]
+}

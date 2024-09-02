@@ -45,17 +45,29 @@
   ],
   "styles": [
     {
-      "selectors": ["gjs-heading"],
-      "style": { "margin": "0", "color": "rgba(29, 40, 55, 1)" },
+      "selectors": [
+        "gjs-heading"
+      ],
+      "style": {
+        "margin": "0",
+        "color": "rgba(29, 40, 55, 1)"
+      },
       "group": "cmp:heading"
     },
     {
-      "selectors": ["gjs-grid-column"],
-      "style": { "flex": "1 1 0%", "padding": "5px 0" },
+      "selectors": [
+        "gjs-grid-column"
+      ],
+      "style": {
+        "flex": "1 1 0%",
+        "padding": "5px 0"
+      },
       "group": "cmp:gridColumn"
     },
     {
-      "selectors": ["gjs-grid-row"],
+      "selectors": [
+        "gjs-grid-row"
+      ],
       "style": {
         "display": "flex",
         "justify-content": "flex-start",
@@ -67,15 +79,28 @@
       "group": "cmp:gridRow"
     },
     {
-      "selectors": ["gjs-grid-row"],
-      "style": { "flex-direction": "column" },
+      "selectors": [
+        "gjs-grid-row"
+      ],
+      "style": {
+        "flex-direction": "column"
+      },
       "mediaText": "(max-width: 992px)",
       "atRuleType": "media",
       "group": "cmp:gridRow"
     },
-    { "selectors": ["#iqjl"], "style": { "flex": "0 1 auto" } },
     {
-      "selectors": ["gjs-link-box"],
+      "selectors": [
+        "#iqjl"
+      ],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": [
+        "gjs-link-box"
+      ],
       "style": {
         "color": "inherit",
         "display": "inline-block",
@@ -87,7 +112,9 @@
       "group": "cmp:linkBox"
     },
     {
-      "selectors": ["gjs-link"],
+      "selectors": [
+        "gjs-link"
+      ],
       "style": {
         "vertical-align": "top",
         "max-width": "100%",
@@ -99,7 +126,9 @@
       "group": "cmp:link"
     },
     {
-      "selectors": ["#id7x"],
+      "selectors": [
+        "#id7x"
+      ],
       "style": {
         "flex": "0 1 auto",
         "display": "block",
@@ -107,9 +136,18 @@
         "padding-right": "10px"
       }
     },
-    { "selectors": ["#iffs"], "style": { "flex": "0 1 auto" } },
     {
-      "selectors": ["#iyd2"],
+      "selectors": [
+        "#iffs"
+      ],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": [
+        "#iyd2"
+      ],
       "style": {
         "align-items": "center",
         "justify-content": "space-between",
@@ -125,7 +163,9 @@
       }
     },
     {
-      "selectors": ["#i6po"],
+      "selectors": [
+        "#i6po"
+      ],
       "style": {
         "justify-content": "center",
         "position": "sticky",
@@ -137,11 +177,18 @@
       }
     },
     {
-      "selectors": ["#itjq"],
-      "style": { "width": "100%", "max-width": "1200px" }
+      "selectors": [
+        "#itjq"
+      ],
+      "style": {
+        "width": "100%",
+        "max-width": "1200px"
+      }
     },
     {
-      "selectors": ["#iucmr"],
+      "selectors": [
+        "#iucmr"
+      ],
       "style": {
         "display": "block",
         "padding-top": "0px",
@@ -149,11 +196,18 @@
       }
     },
     {
-      "selectors": ["#it00l"],
-      "style": { "padding-top": "0px", "padding-bottom": "0px" }
+      "selectors": [
+        "#it00l"
+      ],
+      "style": {
+        "padding-top": "0px",
+        "padding-bottom": "0px"
+      }
     },
     {
-      "selectors": ["#icfyb"],
+      "selectors": [
+        "#icfyb"
+      ],
       "style": {
         "padding": "10px",
         "font-family": "Arial, Helvetica, sans-serif",
@@ -161,9 +215,18 @@
         "padding-right": "20px"
       }
     },
-    { "selectors": ["#irtfd"], "style": { "flex": "0 1 auto" } },
     {
-      "selectors": ["#i88iz"],
+      "selectors": [
+        "#irtfd"
+      ],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": [
+        "#i88iz"
+      ],
       "style": {
         "padding": "10px",
         "font-family": "Arial, Helvetica, sans-serif",
@@ -171,9 +234,18 @@
         "padding-right": "20px"
       }
     },
-    { "selectors": ["#icyzp"], "style": { "flex": "0 1 auto" } },
     {
-      "selectors": ["#irz7b"],
+      "selectors": [
+        "#icyzp"
+      ],
+      "style": {
+        "flex": "0 1 auto"
+      }
+    },
+    {
+      "selectors": [
+        "#irz7b"
+      ],
       "style": {
         "justify-content": "center",
         "padding-top": "80px",
@@ -183,7 +255,9 @@
       }
     },
     {
-      "selectors": ["#iycz3"],
+      "selectors": [
+        "#iycz3"
+      ],
       "style": {
         "max-width": "1200px",
         "align-items": "center",
@@ -193,11 +267,18 @@
       }
     },
     {
-      "selectors": ["#irjua"],
-      "style": { "font-size": "3rem", "text-align": "center" }
+      "selectors": [
+        "#irjua"
+      ],
+      "style": {
+        "font-size": "3rem",
+        "text-align": "center"
+      }
     },
     {
-      "selectors": ["#itndw"],
+      "selectors": [
+        "#itndw"
+      ],
       "style": {
         "padding": "10px",
         "max-width": "750px",
@@ -206,7 +287,9 @@
       }
     },
     {
-      "selectors": ["#i3vvs"],
+      "selectors": [
+        "#i3vvs"
+      ],
       "style": {
         "color": "black",
         "border-top-left-radius": "35px",
@@ -220,13 +303,27 @@
         "margin-left": "38px"
       }
     },
-    { "selectors": ["text-content"], "style": { "line-height": "20px" } },
     {
-      "selectors": ["text-main-content"],
-      "style": { "line-height": "30px", "font-size": "1.2rem" }
+      "selectors": [
+        "text-content"
+      ],
+      "style": {
+        "line-height": "20px"
+      }
     },
     {
-      "selectors": ["#iau9"],
+      "selectors": [
+        "text-main-content"
+      ],
+      "style": {
+        "line-height": "30px",
+        "font-size": "1.2rem"
+      }
+    },
+    {
+      "selectors": [
+        "#iau9"
+      ],
       "style": {
         "font-family": "Arial, Helvetica, sans-serif",
         "__background-type": "gradient",
@@ -241,11 +338,18 @@
       "wrapper": 1
     },
     {
-      "selectors": ["#ij2gh"],
-      "style": { "font-size": "1.2rem", "margin-bottom": "15px" }
+      "selectors": [
+        "#ij2gh"
+      ],
+      "style": {
+        "font-size": "1.2rem",
+        "margin-bottom": "15px"
+      }
     },
     {
-      "selectors": ["#igrx8"],
+      "selectors": [
+        "#igrx8"
+      ],
       "style": {
         "padding": "10px",
         "max-width": "750px",
@@ -255,7 +359,9 @@
       }
     },
     {
-      "selectors": ["#i466d"],
+      "selectors": [
+        "#i466d"
+      ],
       "style": {
         "color": "black",
         "border-top-left-radius": "35px",
@@ -266,7 +372,9 @@
       }
     },
     {
-      "selectors": ["#imymf"],
+      "selectors": [
+        "#imymf"
+      ],
       "style": {
         "max-width": "1200px",
         "align-items": "center",
@@ -275,7 +383,9 @@
       }
     },
     {
-      "selectors": ["#feature-section"],
+      "selectors": [
+        "#feature-section"
+      ],
       "style": {
         "justify-content": "center",
         "padding-top": "80px",
@@ -285,11 +395,18 @@
       }
     },
     {
-      "selectors": ["#ib541"],
-      "style": { "gap": "100px", "justify-content": "space-between" }
+      "selectors": [
+        "#ib541"
+      ],
+      "style": {
+        "gap": "100px",
+        "justify-content": "space-between"
+      }
     },
     {
-      "selectors": ["#iz8m8"],
+      "selectors": [
+        "#iz8m8"
+      ],
       "style": {
         "display": "flex",
         "flex-direction": "column",
@@ -297,9 +414,18 @@
         "justify-content": "center"
       }
     },
-    { "selectors": ["#in9ef"], "style": { "font-size": "1.5rem" } },
     {
-      "selectors": ["#i8isa"],
+      "selectors": [
+        "#in9ef"
+      ],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": [
+        "#i8isa"
+      ],
       "style": {
         "padding": "10px",
         "padding-left": "0px",
@@ -307,7 +433,9 @@
       }
     },
     {
-      "selectors": ["#i8w4i"],
+      "selectors": [
+        "#i8w4i"
+      ],
       "style": {
         "max-width": "1200px",
         "display": "flex",
@@ -315,7 +443,9 @@
       }
     },
     {
-      "selectors": ["#ioyxg"],
+      "selectors": [
+        "#ioyxg"
+      ],
       "style": {
         "justify-content": "center",
         "padding-top": "80px",
@@ -325,7 +455,9 @@
       }
     },
     {
-      "selectors": ["#iiacm"],
+      "selectors": [
+        "#iiacm"
+      ],
       "style": {
         "font-size": "2.5rem",
         "margin-bottom": "10px",
@@ -333,7 +465,9 @@
       }
     },
     {
-      "selectors": ["#ixzh1"],
+      "selectors": [
+        "#ixzh1"
+      ],
       "style": {
         "width": "100%",
         "flex-wrap": "wrap",
@@ -342,7 +476,10 @@
       }
     },
     {
-      "selectors": ["gjs-grid-column", "feature-item"],
+      "selectors": [
+        "gjs-grid-column",
+        "feature-item"
+      ],
       "style": {
         "padding-top": "15px",
         "padding-right": "15px",
@@ -355,7 +492,9 @@
       }
     },
     {
-      "selectors": ["#ia21sa"],
+      "selectors": [
+        "#ia21sa"
+      ],
       "style": {
         "padding": "10px",
         "max-width": "750px",
@@ -365,7 +504,9 @@
       }
     },
     {
-      "selectors": ["#ihap8q"],
+      "selectors": [
+        "#ihap8q"
+      ],
       "style": {
         "font-size": "2.5rem",
         "margin-bottom": "10px",
@@ -373,7 +514,9 @@
       }
     },
     {
-      "selectors": ["#i6fjjy"],
+      "selectors": [
+        "#i6fjjy"
+      ],
       "style": {
         "padding": "10px",
         "max-width": "750px",
@@ -384,7 +527,9 @@
       }
     },
     {
-      "selectors": ["#ia7pcr"],
+      "selectors": [
+        "#ia7pcr"
+      ],
       "style": {
         "color": "black",
         "border-top-left-radius": "100%",
@@ -407,9 +552,18 @@
         "border-left-color": "rgb(36, 99, 235)"
       }
     },
-    { "selectors": ["#iqroa4"], "style": { "font-size": "1.5rem" } },
     {
-      "selectors": ["#i5k4nf"],
+      "selectors": [
+        "#iqroa4"
+      ],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": [
+        "#i5k4nf"
+      ],
       "style": {
         "width": "100%",
         "flex-wrap": "wrap",
@@ -418,7 +572,9 @@
       }
     },
     {
-      "selectors": ["#infwen"],
+      "selectors": [
+        "#infwen"
+      ],
       "style": {
         "max-width": "1200px",
         "align-items": "center",
@@ -427,7 +583,9 @@
       }
     },
     {
-      "selectors": ["#testimonial-section"],
+      "selectors": [
+        "#testimonial-section"
+      ],
       "style": {
         "justify-content": "center",
         "padding-top": "80px",
@@ -437,11 +595,18 @@
       }
     },
     {
-      "selectors": ["#inea73"],
-      "style": { "justify-content": "space-between" }
+      "selectors": [
+        "#inea73"
+      ],
+      "style": {
+        "justify-content": "space-between"
+      }
     },
     {
-      "selectors": ["gjs-grid-column", "testimonial-item"],
+      "selectors": [
+        "gjs-grid-column",
+        "testimonial-item"
+      ],
       "style": {
         "padding-top": "15px",
         "padding-right": "15px",
@@ -471,20 +636,46 @@
         "border-left-color": "rgba(0, 0, 0, 0.06)"
       }
     },
-    { "selectors": ["#idva29"], "style": { "flex": "0 1 auto" } },
     {
-      "selectors": ["#i2d7qp"],
-      "style": { "width": "100%", "gap": "20px", "align-items": "center" }
+      "selectors": [
+        "#idva29"
+      ],
+      "style": {
+        "flex": "0 1 auto"
+      }
     },
-    { "selectors": ["#iaqf2c"], "style": { "color": "rgba(0, 0, 0, 0.5)" } },
     {
-      "selectors": ["#i2d7qp"],
-      "style": { "flex-direction": "row" },
+      "selectors": [
+        "#i2d7qp"
+      ],
+      "style": {
+        "width": "100%",
+        "gap": "20px",
+        "align-items": "center"
+      }
+    },
+    {
+      "selectors": [
+        "#iaqf2c"
+      ],
+      "style": {
+        "color": "rgba(0, 0, 0, 0.5)"
+      }
+    },
+    {
+      "selectors": [
+        "#i2d7qp"
+      ],
+      "style": {
+        "flex-direction": "row"
+      },
       "mediaText": "(max-width: 992px)",
       "atRuleType": "media"
     },
     {
-      "selectors": ["#it3yug"],
+      "selectors": [
+        "#it3yug"
+      ],
       "style": {
         "padding": "10px",
         "padding-left": "0px",
@@ -492,7 +683,9 @@
       }
     },
     {
-      "selectors": ["#i8gt4n"],
+      "selectors": [
+        "#i8gt4n"
+      ],
       "style": {
         "padding": "10px",
         "padding-left": "0px",
@@ -500,7 +693,9 @@
       }
     },
     {
-      "selectors": ["#ixzdlj"],
+      "selectors": [
+        "#ixzdlj"
+      ],
       "style": {
         "color": "black",
         "border-top-left-radius": "100%",
@@ -523,25 +718,62 @@
         "border-left-style": "solid"
       }
     },
-    { "selectors": ["#inucqu"], "style": { "flex": "0 1 auto" } },
-    { "selectors": ["#i04ztt"], "style": { "font-size": "1.5rem" } },
-    { "selectors": ["#ia9ts3"], "style": { "color": "rgba(0, 0, 0, 0.5)" } },
     {
-      "selectors": ["#ish0zj"],
-      "style": { "width": "100%", "gap": "20px", "align-items": "center" }
+      "selectors": [
+        "#inucqu"
+      ],
+      "style": {
+        "flex": "0 1 auto"
+      }
     },
     {
-      "selectors": ["#ish0zj"],
-      "style": { "flex-direction": "row" },
+      "selectors": [
+        "#i04ztt"
+      ],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": [
+        "#ia9ts3"
+      ],
+      "style": {
+        "color": "rgba(0, 0, 0, 0.5)"
+      }
+    },
+    {
+      "selectors": [
+        "#ish0zj"
+      ],
+      "style": {
+        "width": "100%",
+        "gap": "20px",
+        "align-items": "center"
+      }
+    },
+    {
+      "selectors": [
+        "#ish0zj"
+      ],
+      "style": {
+        "flex-direction": "row"
+      },
       "mediaText": "(max-width: 992px)",
       "atRuleType": "media"
     },
     {
-      "selectors": ["#idndjn"],
-      "style": { "justify-content": "space-between" }
+      "selectors": [
+        "#idndjn"
+      ],
+      "style": {
+        "justify-content": "space-between"
+      }
     },
     {
-      "selectors": ["#ilriti"],
+      "selectors": [
+        "#ilriti"
+      ],
       "style": {
         "max-width": "1200px",
         "display": "flex",
@@ -549,7 +781,9 @@
       }
     },
     {
-      "selectors": ["#iv3be5"],
+      "selectors": [
+        "#iv3be5"
+      ],
       "style": {
         "justify-content": "center",
         "padding-top": "80px",
@@ -558,18 +792,36 @@
         "padding-bottom": "80px"
       }
     },
-    { "selectors": ["#im0rle"], "style": { "flex-direction": "column" } },
     {
-      "selectors": ["#iih6cv"],
+      "selectors": [
+        "#im0rle"
+      ],
+      "style": {
+        "flex-direction": "column"
+      }
+    },
+    {
+      "selectors": [
+        "#iih6cv"
+      ],
       "style": {
         "display": "block",
         "padding-top": "0px",
         "padding-bottom": "0px"
       }
     },
-    { "selectors": ["#iotp6j"], "style": { "align-self": "center" } },
     {
-      "selectors": ["#it6g1v"],
+      "selectors": [
+        "#iotp6j"
+      ],
+      "style": {
+        "align-self": "center"
+      }
+    },
+    {
+      "selectors": [
+        "#it6g1v"
+      ],
       "style": {
         "padding": "10px",
         "text-align": "center",
@@ -578,11 +830,34 @@
         "opacity": "75%"
       }
     },
-    { "selectors": ["#ij7g8t"], "style": { "display": "block" } },
-    { "selectors": ["#ipjdtn"], "style": { "display": "block" } },
-    { "selectors": ["#ikj01e"], "style": { "display": "block" } },
     {
-      "selectors": ["#i1hx7l"],
+      "selectors": [
+        "#ij7g8t"
+      ],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": [
+        "#ipjdtn"
+      ],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": [
+        "#ikj01e"
+      ],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": [
+        "#i1hx7l"
+      ],
       "style": {
         "display": "flex",
         "gap": "30px",
@@ -592,9 +867,18 @@
         "margin-bottom": "30px"
       }
     },
-    { "selectors": ["#i2sl68"], "style": { "display": "block" } },
     {
-      "selectors": ["gjs-button"],
+      "selectors": [
+        "#i2sl68"
+      ],
+      "style": {
+        "display": "block"
+      }
+    },
+    {
+      "selectors": [
+        "gjs-button"
+      ],
       "style": {
         "vertical-align": "top",
         "max-width": "100%",
@@ -615,12 +899,25 @@
       }
     },
     {
-      "selectors": ["gjs-text-blue"],
-      "style": { "color": "rgb(36, 99, 235)" }
+      "selectors": [
+        "gjs-text-blue"
+      ],
+      "style": {
+        "color": "rgb(36, 99, 235)"
+      }
     },
-    { "selectors": ["#ism014"], "style": { "font-size": "2.5rem" } },
     {
-      "selectors": ["#in201n"],
+      "selectors": [
+        "#ism014"
+      ],
+      "style": {
+        "font-size": "2.5rem"
+      }
+    },
+    {
+      "selectors": [
+        "#in201n"
+      ],
       "style": {
         "padding": "10px",
         "max-width": "750px",
@@ -632,7 +929,9 @@
       }
     },
     {
-      "selectors": ["#ik2rdi"],
+      "selectors": [
+        "#ik2rdi"
+      ],
       "style": {
         "max-width": "1200px",
         "align-items": "center",
@@ -669,7 +968,9 @@
       }
     },
     {
-      "selectors": ["#iz29ek"],
+      "selectors": [
+        "#iz29ek"
+      ],
       "style": {
         "justify-content": "center",
         "padding-top": "80px",
@@ -679,12 +980,19 @@
       }
     },
     {
-      "selectors": ["gjs-link"],
-      "style": { "color": "rgb(36, 99, 235)", "text-decoration": "underline" },
+      "selectors": [
+        "gjs-link"
+      ],
+      "style": {
+        "color": "rgb(36, 99, 235)",
+        "text-decoration": "underline"
+      },
       "state": "hover"
     },
     {
-      "selectors": ["gjs-icon"],
+      "selectors": [
+        "gjs-icon"
+      ],
       "style": {
         "display": "inline-block",
         "text-decoration": "none",
@@ -697,19 +1005,37 @@
       "group": "cmp:icon"
     },
     {
-      "selectors": ["#irfl3k"],
-      "style": { "width": "196px", "height": "41px" }
+      "selectors": [
+        "#irfl3k"
+      ],
+      "style": {
+        "width": "196px",
+        "height": "41px"
+      }
     },
     {
-      "selectors": ["#ip6zoj"],
-      "style": { "width": "213px", "height": "44px" }
+      "selectors": [
+        "#ip6zoj"
+      ],
+      "style": {
+        "width": "213px",
+        "height": "44px"
+      }
     },
     {
-      "selectors": ["#ihs4lb"],
-      "style": { "font-size": "1.2rem", "margin-bottom": "15px" }
+      "selectors": [
+        "#ihs4lb"
+      ],
+      "style": {
+        "font-size": "1.2rem",
+        "margin-bottom": "15px"
+      }
     },
     {
-      "selectors": ["gjs-icon", "gjs-feature-icon"],
+      "selectors": [
+        "gjs-icon",
+        "gjs-feature-icon"
+      ],
       "style": {
         "padding-top": "10px",
         "padding-right": "10px",
@@ -723,18 +1049,36 @@
         "border-bottom-left-radius": "10px"
       }
     },
-    { "selectors": ["#ieu6p6"], "style": { "font-size": "1.5rem" } },
     {
-      "selectors": ["#izqkf7"],
+      "selectors": [
+        "#ieu6p6"
+      ],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": [
+        "#izqkf7"
+      ],
       "style": {
         "padding": "10px",
         "padding-left": "0px",
         "padding-right": "0px"
       }
     },
-    { "selectors": ["#ica43q"], "style": { "font-size": "1.5rem" } },
     {
-      "selectors": ["#ickn3f"],
+      "selectors": [
+        "#ica43q"
+      ],
+      "style": {
+        "font-size": "1.5rem"
+      }
+    },
+    {
+      "selectors": [
+        "#ickn3f"
+      ],
       "style": {
         "padding": "10px",
         "padding-left": "0px",
@@ -742,35 +1086,59 @@
       }
     },
     {
-      "selectors": ["#iyd2"],
-      "style": { "flex-direction": "row" },
+      "selectors": [
+        "#iyd2"
+      ],
+      "style": {
+        "flex-direction": "row"
+      },
       "mediaText": "(max-width: 992px)",
       "atRuleType": "media"
     },
     {
-      "selectors": ["#iffs"],
-      "style": { "display": "none" },
+      "selectors": [
+        "#iffs"
+      ],
+      "style": {
+        "display": "none"
+      },
       "mediaText": "(max-width: 768px)",
       "atRuleType": "media"
     },
     {
-      "selectors": ["#it00l"],
-      "style": { "flex-direction": "row" },
+      "selectors": [
+        "#it00l"
+      ],
+      "style": {
+        "flex-direction": "row"
+      },
       "mediaText": "(max-width: 992px)",
       "atRuleType": "media"
     },
     {
-      "selectors": ["#irfl3k"],
-      "style": { "width": "116px", "height": "24px" },
+      "selectors": [
+        "#irfl3k"
+      ],
+      "style": {
+        "width": "116px",
+        "height": "24px"
+      },
       "mediaText": "(max-width: 480px)",
       "atRuleType": "media"
     },
     {
-      "selectors": ["#i83vu9"],
-      "style": { "font-size": "2.5rem", "text-align": "center" }
+      "selectors": [
+        "#i83vu9"
+      ],
+      "style": {
+        "font-size": "2.5rem",
+        "text-align": "center"
+      }
     },
     {
-      "selectors": ["#infmy1"],
+      "selectors": [
+        "#infmy1"
+      ],
       "style": {
         "padding": "10px",
         "font-family": "Arial, Helvetica, sans-serif",
@@ -785,36 +1153,61 @@
         {
           "component": {
             "type": "wrapper",
-            "attributes": { "id": "iau9" },
+            "attributes": {
+              "id": "iau9"
+            },
             "components": [
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "i6po" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "i6po"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "itjq" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "itjq"
+                    },
                     "components": [
                       {
                         "type": "gridRow",
-                        "classes": ["gjs-grid-row"],
-                        "attributes": { "id": "iyd2" },
+                        "classes": [
+                          "gjs-grid-row"
+                        ],
+                        "attributes": {
+                          "id": "iyd2"
+                        },
                         "components": [
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "iqjl" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "iqjl"
+                            },
                             "components": [
                               {
                                 "type": "linkBox",
-                                "classes": ["gjs-link-box"],
-                                "attributes": { "id": "iucmr", "href": "/" },
+                                "classes": [
+                                  "gjs-link-box"
+                                ],
+                                "attributes": {
+                                  "id": "iucmr",
+                                  "href": "/"
+                                },
                                 "components": [
                                   {
                                     "type": "icon",
-                                    "classes": ["gjs-icon"],
+                                    "classes": [
+                                      "gjs-icon"
+                                    ],
                                     "attributes": {
                                       "data-type-icon": true,
                                       "id": "irfl3k"
@@ -831,7 +1224,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -842,7 +1237,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -853,7 +1250,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M125.619 14.4525H120.767V29.8648H125.619V14.4525Z",
                                               "fill": "#007DFC"
@@ -862,7 +1261,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M121.307 11.5666C121.814 12.074 122.448 12.3277 123.209 12.3277C123.97 12.3277 124.594 12.074 125.08 11.5666C125.567 11.0381 125.81 10.4038 125.81 9.66385C125.81 8.90277 125.567 8.26849 125.08 7.76111C124.594 7.25369 123.97 7 123.209 7C122.448 7 121.814 7.25369 121.307 7.76111C120.82 8.26849 120.577 8.90277 120.577 9.66385C120.577 10.4038 120.82 11.0381 121.307 11.5666Z",
                                               "fill": "#007DFC"
@@ -871,7 +1272,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M51.1562 29.8648V7.47568H56.1351V25.4885H66.0612V29.8648H51.1562Z",
                                               "fill": "#007DFC"
@@ -880,7 +1283,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -891,7 +1296,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -902,7 +1309,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -913,7 +1322,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -924,7 +1335,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M149.546 29.8965C150.434 30.1291 151.332 30.2453 152.241 30.2453C154.165 30.2453 155.687 29.8014 156.808 28.9134C157.949 28.0255 158.52 26.831 158.52 25.3299C158.52 24.3574 158.341 23.5751 157.981 22.9832C157.622 22.3701 157.157 21.8838 156.586 21.5244C156.015 21.165 155.412 20.8795 154.778 20.6681C154.144 20.4567 153.541 20.277 152.971 20.129C152.4 19.981 151.935 19.8119 151.575 19.6216C151.216 19.4313 151.036 19.1776 151.036 18.8605C151.036 18.5645 151.174 18.3425 151.448 18.1945C151.723 18.0254 152.135 17.9409 152.685 17.9409C153.256 17.9409 153.837 18.0571 154.429 18.2897C155.042 18.5222 155.592 18.924 156.078 19.4948L158.837 16.7041C158.14 15.8161 157.231 15.1501 156.11 14.7062C155.011 14.2411 153.806 14.0085 152.495 14.0085C151.248 14.0085 150.159 14.2199 149.229 14.6427C148.298 15.0656 147.579 15.647 147.072 16.3869C146.565 17.1057 146.311 17.962 146.311 18.9557C146.311 19.8859 146.491 20.6576 146.85 21.2707C147.209 21.8626 147.675 22.3278 148.245 22.666C148.816 23.0043 149.419 23.2686 150.053 23.4588C150.687 23.6491 151.29 23.8288 151.861 23.998C152.431 24.146 152.897 24.3257 153.256 24.5371C153.637 24.7274 153.827 25.0128 153.827 25.3933C153.827 25.6893 153.668 25.9218 153.351 26.091C153.055 26.2601 152.622 26.3447 152.051 26.3447C151.226 26.3447 150.465 26.1967 149.768 25.9007C149.07 25.5836 148.467 25.1502 147.96 24.6005L145.201 27.3912C145.73 27.962 146.364 28.4695 147.104 28.9134C147.865 29.3362 148.679 29.6639 149.546 29.8965Z",
                                               "fill": "#007DFC"
@@ -933,7 +1346,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M167.368 30.2136C165.952 30.2136 164.694 29.9282 163.595 29.3574C162.516 28.7654 161.671 27.962 161.058 26.9472C160.444 25.9113 160.138 24.7274 160.138 23.3954V14.4525H164.99V23.332C164.99 23.8605 165.074 24.3151 165.244 24.6956C165.434 25.0762 165.709 25.3722 166.068 25.5836C166.428 25.795 166.861 25.9007 167.368 25.9007C168.087 25.9007 168.658 25.6787 169.081 25.2347C169.504 24.7696 169.715 24.1354 169.715 23.332V14.4525H174.567V23.3637C174.567 24.7168 174.261 25.9113 173.647 26.9472C173.034 27.962 172.189 28.7654 171.11 29.3574C170.032 29.9282 168.785 30.2136 167.368 30.2136Z",
                                               "fill": "#007DFC"
@@ -942,7 +1357,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M181.831 14.4525H176.979V29.8648H181.831V20.8584C181.831 20.3299 181.937 19.8859 182.148 19.5265C182.381 19.1671 182.688 18.8922 183.068 18.702C183.449 18.4905 183.882 18.3848 184.368 18.3848C185.066 18.3848 185.647 18.6068 186.112 19.0508C186.599 19.4736 186.842 20.0762 186.842 20.8584V29.8648H191.694V20.8584C191.694 20.3299 191.8 19.8859 192.011 19.5265C192.244 19.1671 192.55 18.8922 192.931 18.702C193.311 18.4905 193.745 18.3848 194.231 18.3848C194.929 18.3848 195.51 18.6068 195.975 19.0508C196.461 19.4736 196.704 20.0762 196.704 20.8584V29.8648H201.557V20.3193C201.557 19.0297 201.282 17.9303 200.732 17.0212C200.203 16.0909 199.474 15.3827 198.544 14.8965C197.635 14.389 196.588 14.1353 195.404 14.1353C194.199 14.1353 193.11 14.3996 192.138 14.9282C191.506 15.2649 190.954 15.6995 190.481 16.2319C190.04 15.675 189.504 15.2193 188.871 14.8647C188.026 14.3785 187.064 14.1353 185.986 14.1353C184.844 14.1353 183.819 14.3785 182.91 14.8647C182.514 15.067 182.155 15.3093 181.831 15.5916V14.4525Z",
                                               "fill": "#007DFC"
@@ -960,23 +1377,37 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "iffs" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "iffs"
+                            },
                             "custom-name": "Nav container",
                             "components": [
                               {
                                 "type": "gridRow",
-                                "classes": ["gjs-grid-row"],
-                                "attributes": { "id": "it00l" },
+                                "classes": [
+                                  "gjs-grid-row"
+                                ],
+                                "attributes": {
+                                  "id": "it00l"
+                                },
                                 "components": [
                                   {
                                     "type": "gridColumn",
-                                    "classes": ["gjs-grid-column"],
-                                    "attributes": { "id": "irtfd" },
+                                    "classes": [
+                                      "gjs-grid-column"
+                                    ],
+                                    "attributes": {
+                                      "id": "irtfd"
+                                    },
                                     "components": [
                                       {
                                         "type": "link",
-                                        "classes": ["gjs-link"],
+                                        "classes": [
+                                          "gjs-link"
+                                        ],
                                         "attributes": {
                                           "id": "icfyb",
                                           "href": "#feature-section"
@@ -990,7 +1421,9 @@
                                       },
                                       {
                                         "type": "link",
-                                        "classes": ["gjs-link"],
+                                        "classes": [
+                                          "gjs-link"
+                                        ],
                                         "attributes": {
                                           "href": "#feature-section",
                                           "id": "infmy1"
@@ -1007,12 +1440,18 @@
                                   },
                                   {
                                     "type": "gridColumn",
-                                    "classes": ["gjs-grid-column"],
-                                    "attributes": { "id": "icyzp" },
+                                    "classes": [
+                                      "gjs-grid-column"
+                                    ],
+                                    "attributes": {
+                                      "id": "icyzp"
+                                    },
                                     "components": [
                                       {
                                         "type": "link",
-                                        "classes": ["gjs-link"],
+                                        "classes": [
+                                          "gjs-link"
+                                        ],
                                         "attributes": {
                                           "id": "i88iz",
                                           "href": "#testimonial-section"
@@ -1034,14 +1473,22 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "id7x" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "id7x"
+                            },
                             "custom-name": "Button container",
                             "components": [
                               {
                                 "type": "link",
-                                "classes": ["gjs-button"],
-                                "attributes": { "id": "i1mew" },
+                                "classes": [
+                                  "gjs-button"
+                                ],
+                                "attributes": {
+                                  "id": "i1mew"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1064,49 +1511,85 @@
               },
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "irz7b" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "irz7b"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "iycz3" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "iycz3"
+                    },
                     "components": [
                       {
                         "type": "heading",
-                        "classes": ["gjs-heading"],
-                        "attributes": { "id": "irjua" },
+                        "classes": [
+                          "gjs-heading"
+                        ],
+                        "attributes": {
+                          "id": "irjua"
+                        },
                         "components": [
-                          { "type": "textnode", "content": "Insert Hero " },
+                          {
+                            "type": "textnode",
+                            "content": "Insert Hero "
+                          },
                           {
                             "tagName": "span",
                             "type": "text",
-                            "classes": ["gjs-text-blue"],
-                            "attributes": { "id": "i4jn1p" },
+                            "classes": [
+                              "gjs-text-blue"
+                            ],
+                            "attributes": {
+                              "id": "i4jn1p"
+                            },
                             "components": [
-                              { "type": "textnode", "content": "text here" }
+                              {
+                                "type": "textnode",
+                                "content": "text here"
+                              }
                             ]
                           }
                         ]
                       },
                       {
                         "type": "text",
-                        "classes": ["text-main-content"],
-                        "attributes": { "id": "itndw" },
+                        "classes": [
+                          "text-main-content"
+                        ],
+                        "attributes": {
+                          "id": "itndw"
+                        },
                         "components": [
                           {
                             "type": "textnode",
                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
                           },
-                          { "tagName": "br", "void": true }
+                          {
+                            "tagName": "br",
+                            "void": true
+                          }
                         ]
                       },
                       {
                         "type": "link",
-                        "classes": ["gjs-button"],
-                        "attributes": { "id": "iar3s" },
+                        "classes": [
+                          "gjs-button"
+                        ],
+                        "attributes": {
+                          "id": "iar3s"
+                        },
                         "components": [
-                          { "type": "textnode", "content": "Join Waitlist" }
+                          {
+                            "type": "textnode",
+                            "content": "Join Waitlist"
+                          }
                         ],
                         "custom-name": "Button"
                       },
@@ -1125,29 +1608,50 @@
               },
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "feature-section" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "feature-section"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "imymf" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "imymf"
+                    },
                     "components": [
                       {
                         "type": "gridRow",
-                        "classes": ["gjs-grid-row"],
-                        "attributes": { "id": "ib541" },
+                        "classes": [
+                          "gjs-grid-row"
+                        ],
+                        "attributes": {
+                          "id": "ib541"
+                        },
                         "components": [
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "iz8m8" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "iz8m8"
+                            },
                             "components": [
                               {
                                 "tagName": "h4",
                                 "type": "heading",
-                                "classes": ["gjs-heading", "gjs-text-blue"],
-                                "attributes": { "id": "ij2gh" },
+                                "classes": [
+                                  "gjs-heading",
+                                  "gjs-text-blue"
+                                ],
+                                "attributes": {
+                                  "id": "ij2gh"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1158,8 +1662,12 @@
                               {
                                 "tagName": "h2",
                                 "type": "heading",
-                                "classes": ["gjs-heading"],
-                                "attributes": { "id": "ism014" },
+                                "classes": [
+                                  "gjs-heading"
+                                ],
+                                "attributes": {
+                                  "id": "ism014"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1169,8 +1677,12 @@
                               },
                               {
                                 "type": "text",
-                                "classes": ["text-main-content"],
-                                "attributes": { "id": "igrx8" },
+                                "classes": [
+                                  "text-main-content"
+                                ],
+                                "attributes": {
+                                  "id": "igrx8"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1180,8 +1692,12 @@
                               },
                               {
                                 "type": "link",
-                                "classes": ["gjs-button"],
-                                "attributes": { "id": "iqx3z1" },
+                                "classes": [
+                                  "gjs-button"
+                                ],
+                                "attributes": {
+                                  "id": "iqx3z1"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1195,8 +1711,12 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "iepks" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "iepks"
+                            },
                             "components": [
                               {
                                 "type": "image",
@@ -1218,28 +1738,48 @@
               },
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "ioyxg" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "ioyxg"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "i8w4i" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "i8w4i"
+                    },
                     "components": [
                       {
                         "tagName": "h4",
                         "type": "heading",
-                        "classes": ["gjs-heading", "gjs-text-blue"],
-                        "attributes": { "id": "ihs4lb" },
+                        "classes": [
+                          "gjs-heading",
+                          "gjs-text-blue"
+                        ],
+                        "attributes": {
+                          "id": "ihs4lb"
+                        },
                         "components": [
-                          { "type": "textnode", "content": "More Features" }
+                          {
+                            "type": "textnode",
+                            "content": "More Features"
+                          }
                         ]
                       },
                       {
                         "tagName": "h2",
                         "type": "heading",
-                        "classes": ["gjs-heading"],
-                        "attributes": { "id": "iiacm" },
+                        "classes": [
+                          "gjs-heading"
+                        ],
+                        "attributes": {
+                          "id": "iiacm"
+                        },
                         "components": [
                           {
                             "type": "textnode",
@@ -1248,18 +1788,29 @@
                           {
                             "tagName": "span",
                             "type": "text",
-                            "classes": ["gjs-text-blue"],
-                            "attributes": { "id": "icxfor" },
+                            "classes": [
+                              "gjs-text-blue"
+                            ],
+                            "attributes": {
+                              "id": "icxfor"
+                            },
                             "components": [
-                              { "type": "textnode", "content": "so amazing" }
+                              {
+                                "type": "textnode",
+                                "content": "so amazing"
+                              }
                             ]
                           }
                         ]
                       },
                       {
                         "type": "text",
-                        "classes": ["text-main-content"],
-                        "attributes": { "id": "ia21sa" },
+                        "classes": [
+                          "text-main-content"
+                        ],
+                        "attributes": {
+                          "id": "ia21sa"
+                        },
                         "components": [
                           {
                             "type": "textnode",
@@ -1269,17 +1820,29 @@
                       },
                       {
                         "type": "gridRow",
-                        "classes": ["gjs-grid-row"],
-                        "attributes": { "id": "ixzh1" },
+                        "classes": [
+                          "gjs-grid-row"
+                        ],
+                        "attributes": {
+                          "id": "ixzh1"
+                        },
                         "components": [
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column", "feature-item"],
-                            "attributes": { "id": "ilpi3" },
+                            "classes": [
+                              "gjs-grid-column",
+                              "feature-item"
+                            ],
+                            "attributes": {
+                              "id": "ilpi3"
+                            },
                             "components": [
                               {
                                 "type": "icon",
-                                "classes": ["gjs-icon", "gjs-feature-icon"],
+                                "classes": [
+                                  "gjs-icon",
+                                  "gjs-feature-icon"
+                                ],
                                 "attributes": {
                                   "data-type-icon": true,
                                   "id": "ipmqo6"
@@ -1288,7 +1851,9 @@
                                   {
                                     "type": "svg",
                                     "layerable": false,
-                                    "attributes": { "viewBox": "0 0 24 24" },
+                                    "attributes": {
+                                      "viewBox": "0 0 24 24"
+                                    },
                                     "components": [
                                       {
                                         "tagName": "path",
@@ -1304,8 +1869,12 @@
                               {
                                 "tagName": "h3",
                                 "type": "heading",
-                                "classes": ["gjs-heading"],
-                                "attributes": { "id": "in9ef" },
+                                "classes": [
+                                  "gjs-heading"
+                                ],
+                                "attributes": {
+                                  "id": "in9ef"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1315,8 +1884,12 @@
                               },
                               {
                                 "type": "text",
-                                "classes": ["text-main-content"],
-                                "attributes": { "id": "i8isa" },
+                                "classes": [
+                                  "text-main-content"
+                                ],
+                                "attributes": {
+                                  "id": "i8isa"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1329,12 +1902,20 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column", "feature-item"],
-                            "attributes": { "id": "ic57kq" },
+                            "classes": [
+                              "gjs-grid-column",
+                              "feature-item"
+                            ],
+                            "attributes": {
+                              "id": "ic57kq"
+                            },
                             "components": [
                               {
                                 "type": "icon",
-                                "classes": ["gjs-icon", "gjs-feature-icon"],
+                                "classes": [
+                                  "gjs-icon",
+                                  "gjs-feature-icon"
+                                ],
                                 "attributes": {
                                   "data-type-icon": true,
                                   "id": "ibdusm"
@@ -1343,7 +1924,9 @@
                                   {
                                     "type": "svg",
                                     "layerable": false,
-                                    "attributes": { "viewBox": "0 0 24 24" },
+                                    "attributes": {
+                                      "viewBox": "0 0 24 24"
+                                    },
                                     "components": [
                                       {
                                         "tagName": "path",
@@ -1365,8 +1948,12 @@
                               {
                                 "tagName": "h3",
                                 "type": "heading",
-                                "classes": ["gjs-heading"],
-                                "attributes": { "id": "ica43q" },
+                                "classes": [
+                                  "gjs-heading"
+                                ],
+                                "attributes": {
+                                  "id": "ica43q"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1376,8 +1963,12 @@
                               },
                               {
                                 "type": "text",
-                                "classes": ["text-main-content"],
-                                "attributes": { "id": "ickn3f" },
+                                "classes": [
+                                  "text-main-content"
+                                ],
+                                "attributes": {
+                                  "id": "ickn3f"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1390,12 +1981,20 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column", "feature-item"],
-                            "attributes": { "id": "idv32l" },
+                            "classes": [
+                              "gjs-grid-column",
+                              "feature-item"
+                            ],
+                            "attributes": {
+                              "id": "idv32l"
+                            },
                             "components": [
                               {
                                 "type": "icon",
-                                "classes": ["gjs-icon", "gjs-feature-icon"],
+                                "classes": [
+                                  "gjs-icon",
+                                  "gjs-feature-icon"
+                                ],
                                 "attributes": {
                                   "data-type-icon": true,
                                   "id": "ipmept"
@@ -1404,7 +2003,9 @@
                                   {
                                     "type": "svg",
                                     "layerable": false,
-                                    "attributes": { "viewBox": "0 0 24 24" },
+                                    "attributes": {
+                                      "viewBox": "0 0 24 24"
+                                    },
                                     "components": [
                                       {
                                         "tagName": "path",
@@ -1420,8 +2021,12 @@
                               {
                                 "tagName": "h3",
                                 "type": "heading",
-                                "classes": ["gjs-heading"],
-                                "attributes": { "id": "ieu6p6" },
+                                "classes": [
+                                  "gjs-heading"
+                                ],
+                                "attributes": {
+                                  "id": "ieu6p6"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1431,8 +2036,12 @@
                               },
                               {
                                 "type": "text",
-                                "classes": ["text-main-content"],
-                                "attributes": { "id": "izqkf7" },
+                                "classes": [
+                                  "text-main-content"
+                                ],
+                                "attributes": {
+                                  "id": "izqkf7"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1454,19 +2063,31 @@
               },
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "testimonial-section" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "testimonial-section"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "infwen" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "infwen"
+                    },
                     "components": [
                       {
                         "tagName": "h2",
                         "type": "heading",
-                        "classes": ["gjs-heading"],
-                        "attributes": { "id": "ihap8q" },
+                        "classes": [
+                          "gjs-heading"
+                        ],
+                        "attributes": {
+                          "id": "ihap8q"
+                        },
                         "components": [
                           {
                             "type": "textnode",
@@ -1476,8 +2097,12 @@
                       },
                       {
                         "type": "text",
-                        "classes": ["text-main-content"],
-                        "attributes": { "id": "i6fjjy" },
+                        "classes": [
+                          "text-main-content"
+                        ],
+                        "attributes": {
+                          "id": "i6fjjy"
+                        },
                         "components": [
                           {
                             "type": "textnode",
@@ -1487,23 +2112,40 @@
                       },
                       {
                         "type": "gridRow",
-                        "classes": ["gjs-grid-row"],
-                        "attributes": { "id": "i5k4nf" },
+                        "classes": [
+                          "gjs-grid-row"
+                        ],
+                        "attributes": {
+                          "id": "i5k4nf"
+                        },
                         "components": [
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column", "testimonial-item"],
-                            "attributes": { "id": "inea73" },
+                            "classes": [
+                              "gjs-grid-column",
+                              "testimonial-item"
+                            ],
+                            "attributes": {
+                              "id": "inea73"
+                            },
                             "components": [
                               {
                                 "type": "gridRow",
-                                "classes": ["gjs-grid-row"],
-                                "attributes": { "id": "i2d7qp" },
+                                "classes": [
+                                  "gjs-grid-row"
+                                ],
+                                "attributes": {
+                                  "id": "i2d7qp"
+                                },
                                 "components": [
                                   {
                                     "type": "gridColumn",
-                                    "classes": ["gjs-grid-column"],
-                                    "attributes": { "id": "idva29" },
+                                    "classes": [
+                                      "gjs-grid-column"
+                                    ],
+                                    "attributes": {
+                                      "id": "idva29"
+                                    },
                                     "components": [
                                       {
                                         "type": "image",
@@ -1516,14 +2158,22 @@
                                   },
                                   {
                                     "type": "gridColumn",
-                                    "classes": ["gjs-grid-column"],
-                                    "attributes": { "id": "i4djop" },
+                                    "classes": [
+                                      "gjs-grid-column"
+                                    ],
+                                    "attributes": {
+                                      "id": "i4djop"
+                                    },
                                     "components": [
                                       {
                                         "tagName": "h4",
                                         "type": "heading",
-                                        "classes": ["gjs-heading"],
-                                        "attributes": { "id": "iqroa4" },
+                                        "classes": [
+                                          "gjs-heading"
+                                        ],
+                                        "attributes": {
+                                          "id": "iqroa4"
+                                        },
                                         "components": [
                                           {
                                             "type": "textnode",
@@ -1533,8 +2183,12 @@
                                       },
                                       {
                                         "type": "text",
-                                        "classes": ["text-main-content"],
-                                        "attributes": { "id": "iaqf2c" },
+                                        "classes": [
+                                          "text-main-content"
+                                        ],
+                                        "attributes": {
+                                          "id": "iaqf2c"
+                                        },
                                         "components": [
                                           {
                                             "type": "textnode",
@@ -1548,8 +2202,12 @@
                               },
                               {
                                 "type": "text",
-                                "classes": ["text-main-content"],
-                                "attributes": { "id": "it3yug" },
+                                "classes": [
+                                  "text-main-content"
+                                ],
+                                "attributes": {
+                                  "id": "it3yug"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1562,18 +2220,31 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column", "testimonial-item"],
-                            "attributes": { "id": "idndjn" },
+                            "classes": [
+                              "gjs-grid-column",
+                              "testimonial-item"
+                            ],
+                            "attributes": {
+                              "id": "idndjn"
+                            },
                             "components": [
                               {
                                 "type": "gridRow",
-                                "classes": ["gjs-grid-row"],
-                                "attributes": { "id": "ish0zj" },
+                                "classes": [
+                                  "gjs-grid-row"
+                                ],
+                                "attributes": {
+                                  "id": "ish0zj"
+                                },
                                 "components": [
                                   {
                                     "type": "gridColumn",
-                                    "classes": ["gjs-grid-column"],
-                                    "attributes": { "id": "inucqu" },
+                                    "classes": [
+                                      "gjs-grid-column"
+                                    ],
+                                    "attributes": {
+                                      "id": "inucqu"
+                                    },
                                     "components": [
                                       {
                                         "type": "image",
@@ -1586,14 +2257,22 @@
                                   },
                                   {
                                     "type": "gridColumn",
-                                    "classes": ["gjs-grid-column"],
-                                    "attributes": { "id": "iuk8ib" },
+                                    "classes": [
+                                      "gjs-grid-column"
+                                    ],
+                                    "attributes": {
+                                      "id": "iuk8ib"
+                                    },
                                     "components": [
                                       {
                                         "tagName": "h4",
                                         "type": "heading",
-                                        "classes": ["gjs-heading"],
-                                        "attributes": { "id": "i04ztt" },
+                                        "classes": [
+                                          "gjs-heading"
+                                        ],
+                                        "attributes": {
+                                          "id": "i04ztt"
+                                        },
                                         "components": [
                                           {
                                             "type": "textnode",
@@ -1603,8 +2282,12 @@
                                       },
                                       {
                                         "type": "text",
-                                        "classes": ["text-main-content"],
-                                        "attributes": { "id": "ia9ts3" },
+                                        "classes": [
+                                          "text-main-content"
+                                        ],
+                                        "attributes": {
+                                          "id": "ia9ts3"
+                                        },
                                         "components": [
                                           {
                                             "type": "textnode",
@@ -1618,8 +2301,12 @@
                               },
                               {
                                 "type": "text",
-                                "classes": ["text-main-content"],
-                                "attributes": { "id": "i8gt4n" },
+                                "classes": [
+                                  "text-main-content"
+                                ],
+                                "attributes": {
+                                  "id": "i8gt4n"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
@@ -1641,55 +2328,94 @@
               },
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "iz29ek" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "iz29ek"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "ik2rdi" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "ik2rdi"
+                    },
                     "components": [
                       {
                         "tagName": "h2",
                         "type": "heading",
-                        "classes": ["gjs-heading"],
-                        "attributes": { "id": "i83vu9" },
+                        "classes": [
+                          "gjs-heading"
+                        ],
+                        "attributes": {
+                          "id": "i83vu9"
+                        },
                         "components": [
                           {
                             "type": "textnode",
                             "content": "Put here your description "
                           },
-                          { "tagName": "br", "void": true },
-                          { "type": "textnode", "content": "for " },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "type": "textnode",
+                            "content": "for "
+                          },
                           {
                             "tagName": "span",
                             "type": "text",
-                            "classes": ["gjs-text-blue"],
-                            "attributes": { "id": "i7owfh" },
+                            "classes": [
+                              "gjs-text-blue"
+                            ],
+                            "attributes": {
+                              "id": "i7owfh"
+                            },
                             "components": [
-                              { "type": "textnode", "content": "this section" }
+                              {
+                                "type": "textnode",
+                                "content": "this section"
+                              }
                             ]
                           }
                         ]
                       },
                       {
                         "type": "text",
-                        "classes": ["text-main-content"],
-                        "attributes": { "id": "in201n" },
+                        "classes": [
+                          "text-main-content"
+                        ],
+                        "attributes": {
+                          "id": "in201n"
+                        },
                         "components": [
                           {
                             "type": "textnode",
                             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
                           },
-                          { "tagName": "br", "void": true }
+                          {
+                            "tagName": "br",
+                            "void": true
+                          }
                         ]
                       },
                       {
                         "type": "link",
-                        "classes": ["gjs-button"],
-                        "attributes": { "id": "iwgwt5" },
+                        "classes": [
+                          "gjs-button"
+                        ],
+                        "attributes": {
+                          "id": "iwgwt5"
+                        },
                         "components": [
-                          { "type": "textnode", "content": "Join Waitlist" }
+                          {
+                            "type": "textnode",
+                            "content": "Join Waitlist"
+                          }
                         ],
                         "custom-name": "Button"
                       }
@@ -1701,32 +2427,55 @@
               },
               {
                 "type": "gridRow",
-                "classes": ["gjs-grid-row"],
-                "attributes": { "id": "iv3be5" },
+                "classes": [
+                  "gjs-grid-row"
+                ],
+                "attributes": {
+                  "id": "iv3be5"
+                },
                 "components": [
                   {
                     "type": "gridColumn",
-                    "classes": ["gjs-grid-column"],
-                    "attributes": { "id": "ilriti" },
+                    "classes": [
+                      "gjs-grid-column"
+                    ],
+                    "attributes": {
+                      "id": "ilriti"
+                    },
                     "components": [
                       {
                         "type": "gridRow",
-                        "classes": ["gjs-grid-row"],
-                        "attributes": { "id": "im0rle" },
+                        "classes": [
+                          "gjs-grid-row"
+                        ],
+                        "attributes": {
+                          "id": "im0rle"
+                        },
                         "components": [
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "iotp6j" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "iotp6j"
+                            },
                             "components": [
                               {
                                 "type": "linkBox",
-                                "classes": ["gjs-link-box"],
-                                "attributes": { "href": "/", "id": "iih6cv" },
+                                "classes": [
+                                  "gjs-link-box"
+                                ],
+                                "attributes": {
+                                  "href": "/",
+                                  "id": "iih6cv"
+                                },
                                 "components": [
                                   {
                                     "type": "icon",
-                                    "classes": ["gjs-icon"],
+                                    "classes": [
+                                      "gjs-icon"
+                                    ],
                                     "attributes": {
                                       "data-type-icon": true,
                                       "id": "ip6zoj"
@@ -1743,7 +2492,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -1754,7 +2505,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -1765,7 +2518,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M125.619 14.4525H120.767V29.8648H125.619V14.4525Z",
                                               "fill": "#007DFC"
@@ -1774,7 +2529,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M121.307 11.5666C121.814 12.074 122.448 12.3277 123.209 12.3277C123.97 12.3277 124.594 12.074 125.08 11.5666C125.567 11.0381 125.81 10.4038 125.81 9.66385C125.81 8.90277 125.567 8.26849 125.08 7.76111C124.594 7.25369 123.97 7 123.209 7C122.448 7 121.814 7.25369 121.307 7.76111C120.82 8.26849 120.577 8.90277 120.577 9.66385C120.577 10.4038 120.82 11.0381 121.307 11.5666Z",
                                               "fill": "#007DFC"
@@ -1783,7 +2540,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M51.1562 29.8648V7.47568H56.1351V25.4885H66.0612V29.8648H51.1562Z",
                                               "fill": "#007DFC"
@@ -1792,7 +2551,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -1803,7 +2564,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -1814,7 +2577,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -1825,7 +2590,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "fill-rule": "evenodd",
                                               "clip-rule": "evenodd",
@@ -1836,7 +2603,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M149.546 29.8965C150.434 30.1291 151.332 30.2453 152.241 30.2453C154.165 30.2453 155.687 29.8014 156.808 28.9134C157.949 28.0255 158.52 26.831 158.52 25.3299C158.52 24.3574 158.341 23.5751 157.981 22.9832C157.622 22.3701 157.157 21.8838 156.586 21.5244C156.015 21.165 155.412 20.8795 154.778 20.6681C154.144 20.4567 153.541 20.277 152.971 20.129C152.4 19.981 151.935 19.8119 151.575 19.6216C151.216 19.4313 151.036 19.1776 151.036 18.8605C151.036 18.5645 151.174 18.3425 151.448 18.1945C151.723 18.0254 152.135 17.9409 152.685 17.9409C153.256 17.9409 153.837 18.0571 154.429 18.2897C155.042 18.5222 155.592 18.924 156.078 19.4948L158.837 16.7041C158.14 15.8161 157.231 15.1501 156.11 14.7062C155.011 14.2411 153.806 14.0085 152.495 14.0085C151.248 14.0085 150.159 14.2199 149.229 14.6427C148.298 15.0656 147.579 15.647 147.072 16.3869C146.565 17.1057 146.311 17.962 146.311 18.9557C146.311 19.8859 146.491 20.6576 146.85 21.2707C147.209 21.8626 147.675 22.3278 148.245 22.666C148.816 23.0043 149.419 23.2686 150.053 23.4588C150.687 23.6491 151.29 23.8288 151.861 23.998C152.431 24.146 152.897 24.3257 153.256 24.5371C153.637 24.7274 153.827 25.0128 153.827 25.3933C153.827 25.6893 153.668 25.9218 153.351 26.091C153.055 26.2601 152.622 26.3447 152.051 26.3447C151.226 26.3447 150.465 26.1967 149.768 25.9007C149.07 25.5836 148.467 25.1502 147.96 24.6005L145.201 27.3912C145.73 27.962 146.364 28.4695 147.104 28.9134C147.865 29.3362 148.679 29.6639 149.546 29.8965Z",
                                               "fill": "#007DFC"
@@ -1845,7 +2614,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M167.368 30.2136C165.952 30.2136 164.694 29.9282 163.595 29.3574C162.516 28.7654 161.671 27.962 161.058 26.9472C160.444 25.9113 160.138 24.7274 160.138 23.3954V14.4525H164.99V23.332C164.99 23.8605 165.074 24.3151 165.244 24.6956C165.434 25.0762 165.709 25.3722 166.068 25.5836C166.428 25.795 166.861 25.9007 167.368 25.9007C168.087 25.9007 168.658 25.6787 169.081 25.2347C169.504 24.7696 169.715 24.1354 169.715 23.332V14.4525H174.567V23.3637C174.567 24.7168 174.261 25.9113 173.647 26.9472C173.034 27.962 172.189 28.7654 171.11 29.3574C170.032 29.9282 168.785 30.2136 167.368 30.2136Z",
                                               "fill": "#007DFC"
@@ -1854,7 +2625,9 @@
                                           {
                                             "tagName": "path",
                                             "type": "svg-in",
-                                            "classes": ["ccustom"],
+                                            "classes": [
+                                              "ccustom"
+                                            ],
                                             "attributes": {
                                               "d": "M181.831 14.4525H176.979V29.8648H181.831V20.8584C181.831 20.3299 181.937 19.8859 182.148 19.5265C182.381 19.1671 182.688 18.8922 183.068 18.702C183.449 18.4905 183.882 18.3848 184.368 18.3848C185.066 18.3848 185.647 18.6068 186.112 19.0508C186.599 19.4736 186.842 20.0762 186.842 20.8584V29.8648H191.694V20.8584C191.694 20.3299 191.8 19.8859 192.011 19.5265C192.244 19.1671 192.55 18.8922 192.931 18.702C193.311 18.4905 193.745 18.3848 194.231 18.3848C194.929 18.3848 195.51 18.6068 195.975 19.0508C196.461 19.4736 196.704 20.0762 196.704 20.8584V29.8648H201.557V20.3193C201.557 19.0297 201.282 17.9303 200.732 17.0212C200.203 16.0909 199.474 15.3827 198.544 14.8965C197.635 14.389 196.588 14.1353 195.404 14.1353C194.199 14.1353 193.11 14.3996 192.138 14.9282C191.506 15.2649 190.954 15.6995 190.481 16.2319C190.04 15.675 189.504 15.2193 188.871 14.8647C188.026 14.3785 187.064 14.1353 185.986 14.1353C184.844 14.1353 183.819 14.3785 182.91 14.8647C182.514 15.067 182.155 15.3093 181.831 15.5916V14.4525Z",
                                               "fill": "#007DFC"
@@ -1871,56 +2644,92 @@
                           },
                           {
                             "type": "gridColumn",
-                            "classes": ["gjs-grid-column"],
-                            "attributes": { "id": "i1hx7l" },
+                            "classes": [
+                              "gjs-grid-column"
+                            ],
+                            "attributes": {
+                              "id": "i1hx7l"
+                            },
                             "components": [
                               {
                                 "type": "link",
-                                "classes": ["gjs-link"],
+                                "classes": [
+                                  "gjs-link"
+                                ],
                                 "attributes": {
                                   "id": "ij7g8t",
                                   "title": "",
                                   "href": "##"
                                 },
                                 "components": [
-                                  { "type": "textnode", "content": "Pricing" },
-                                  { "tagName": "br", "void": true }
+                                  {
+                                    "type": "textnode",
+                                    "content": "Pricing"
+                                  },
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
                                 ]
                               },
                               {
                                 "type": "link",
-                                "classes": ["gjs-link"],
-                                "attributes": { "id": "ipjdtn", "href": "##" },
+                                "classes": [
+                                  "gjs-link"
+                                ],
+                                "attributes": {
+                                  "id": "ipjdtn",
+                                  "href": "##"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
                                     "content": "Terms & Conditions"
                                   },
-                                  { "tagName": "br", "void": true }
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
                                 ]
                               },
                               {
                                 "type": "link",
-                                "classes": ["gjs-link"],
-                                "attributes": { "id": "ikj01e", "href": "##" },
+                                "classes": [
+                                  "gjs-link"
+                                ],
+                                "attributes": {
+                                  "id": "ikj01e",
+                                  "href": "##"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
                                     "content": "Refund Policy"
                                   },
-                                  { "tagName": "br", "void": true }
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
                                 ]
                               },
                               {
                                 "type": "link",
-                                "classes": ["gjs-link"],
-                                "attributes": { "id": "i2sl68", "href": "##" },
+                                "classes": [
+                                  "gjs-link"
+                                ],
+                                "attributes": {
+                                  "id": "i2sl68",
+                                  "href": "##"
+                                },
                                 "components": [
                                   {
                                     "type": "textnode",
                                     "content": "Contact Us"
                                   },
-                                  { "tagName": "br", "void": true }
+                                  {
+                                    "tagName": "br",
+                                    "void": true
+                                  }
                                 ]
                               }
                             ]
@@ -1929,8 +2738,12 @@
                       },
                       {
                         "type": "text",
-                        "classes": ["gjs-text-blue"],
-                        "attributes": { "id": "it6g1v" },
+                        "classes": [
+                          "gjs-text-blue"
+                        ],
+                        "attributes": {
+                          "id": "it6g1v"
+                        },
                         "components": [
                           {
                             "type": "textnode",

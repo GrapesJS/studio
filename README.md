@@ -1,7 +1,7 @@
 # GrapesJS Studio
 
-GrapesJS Studio repo for discussions and issue tracking.
+GrapesJS Studio repo for [Studio](https://app.grapesjs.com/studio) resources, discussions, and issue tracking.
 
 > [!NOTE]
-> This repo doesn't contain the source of GrapesJS Studio and I have no plans to release it at the moment. Please, avoid asking it.
+> This repo doesn't contain the source of GrapesJS Studio itself, only the resources are open.
 
